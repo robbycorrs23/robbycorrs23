@@ -2,6 +2,8 @@
 
 My name is Rob!
 
+I am a software developer working with HTML, CSS, and Javascript.
+
 <!--
 **robbycorrs23/robbycorrs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
