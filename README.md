@@ -16,13 +16,17 @@ has been long, the destination is one I have longed for.
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
 
 ### SOCIALS
 
 [![Linkedin Badge](https://img.shields.io/badge/-robbycorrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbycorrs/)](https://www.linkedin.com/in/robbycorrs/)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbycorrs23&hide=TeX&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
