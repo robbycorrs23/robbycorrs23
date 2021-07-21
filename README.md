@@ -26,8 +26,6 @@ has been long, the destination is one I have longed for.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbycorrs23&hide=TeX&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robbycorrs23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **robbycorrs23/robbycorrs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
