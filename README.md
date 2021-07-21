@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![robbycorrs23](https://user-images.githubusercontent.com/82347372/126544086-c5e44cb0-6ede-4a80-bb33-48f3dd1e69dd.png)
 
 My name is Rob! (He/Him)
