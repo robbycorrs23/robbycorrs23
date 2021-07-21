@@ -16,7 +16,7 @@ I work with React using the Next.js framework but I have some experience with Vu
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=http://143.244.151.71/)](http://143.244.151.71/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Portfolio&url=http://143.244.151.71/)](http://143.244.151.71/)
 
 ### SOCIALS
 
