@@ -22,7 +22,7 @@ I work with React using the Next.js framework but I have some experience with Vu
 
 [![Linkedin Badge](https://img.shields.io/badge/-RobbyCorrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbycorrs/)](https://www.linkedin.com/in/robbycorrs/)
 [![Twitter Badge](https://img.shields.io/badge/-@RobbyCorrs-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RobbyCorrs "Follow on Twitter")
-[![Discord Badge](https://img.shields.io/badge/-RobbyCorrs-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.linkedin.com/in/robbycorrs/)
+[![Discord Badge](https://img.shields.io/badge/-RobbyCorrs-blue?style=flat-square&logo=Discord&logoColor=#555fef)](https://www.discord.com/)
 
 
 
