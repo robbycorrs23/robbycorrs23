@@ -19,6 +19,7 @@ has been long, the destination is one I have longed for.
 
 ### SOCIALS
 
+[![Linkedin Badge](https://img.shields.io/badge/-robbycorrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbycorrs/)](https://www.linkedin.com/in/robbycorrs/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbycorrs23&hide=TeX&layout=compact)
