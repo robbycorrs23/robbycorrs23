@@ -2,10 +2,8 @@
 
 My name is Rob! (He/Him)
 
-I am a software developer working with HTML, CSS, and Javascript. 
-I started my programming career ten years ago and I finally decided 
-to jump head first and make the permanent switch. While the journey 
-has been long, the destination is one I have longed for.
+I am a software developer working with HTML, CSS, and Javascript. My professional goal is to be a full stack developer but for now I am a frontend developer.
+I work with React using the Next.js framework but I have some experience with Vue.js as well.
 
 ### TECHNOLOGIES
 
@@ -20,7 +18,8 @@ has been long, the destination is one I have longed for.
 
 ### SOCIALS
 
-[![Linkedin Badge](https://img.shields.io/badge/-robbycorrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbycorrs/)](https://www.linkedin.com/in/robbycorrs/)
+[![Linkedin Badge](https://img.shields.io/badge/-RobbyCorrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robbycorrs/)](https://www.linkedin.com/in/robbycorrs/)
+[![Twitter Badge](https://img.shields.io/badge/-@RobbyCorrs-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RobbyCorrs "Follow on Twitter")
 
 
 
