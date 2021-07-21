@@ -26,7 +26,7 @@ I work with React using the Next.js framework but I have some experience with Vu
 [![Discord Badge](https://img.shields.io/badge/-RobbyCorrs-555fef?style=flat-square&logo=Discord&logoColor=fff)](https://www.discord.com/)
 
 ### INTERESTS
-[![CRYPTO Badge](https://img.shields.io/badge/Crypto-HOGE-red)](https://hoge.finance/)
+[![CRYPTO Badge](https://img.shields.io/badge/Crypto-HOGE-white)](https://hoge.finance/)
 
 
 
