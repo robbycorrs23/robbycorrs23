@@ -28,6 +28,8 @@ I work with React using the Next.js framework but I have some experience with Vu
 ### INTERESTS
 [![CRYPTO Badge](https://img.shields.io/badge/Crypto-HOGE-black)](https://hoge.finance/)
 [![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=flat-square&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
+[![DuckDuckGo Badge](https://img.shields.io/badge/NBA-253B73.svg?style=flat-square&logo=NBA&logoColor=white)](https://nba.com/)
+
 
 
 
