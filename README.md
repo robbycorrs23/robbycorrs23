@@ -14,6 +14,7 @@ I work with React using the Next.js framework but I have some experience with Vu
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
@@ -34,9 +35,7 @@ I work with React using the Next.js framework but I have some experience with Vu
 ### INTERESTS
 [![CRYPTO Badge](https://img.shields.io/badge/Crypto-HOGE-black)](https://hoge.finance/)
 [![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=flat-square&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
-[![DuckDuckGo Badge](https://img.shields.io/badge/NBA-253B73.svg?style=flat-square&logo=NBA&logoColor=white)](https://nba.com/)
-
-
+[![NBA](https://img.shields.io/badge/NBA-253B73.svg?style=flat-square&logo=NBA&logoColor=white)](https://nba.com/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbycorrs23&hide=TeX&layout=compact)
