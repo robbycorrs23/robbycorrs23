@@ -2,8 +2,7 @@
 
 My name is Rob! (He/Him)
 
-I am a software developer working with HTML, CSS, and Javascript. My professional goal is to be a full stack developer but for now I am a frontend developer.
-I work with React using the Next.js framework but I have some experience with Vue.js as well.
+I am a software developer working mostly with PHP, Javascript, and Python. I work with React using the Next.js framework but I have some experience with Vue.js as well. I have focused on becoming a Full STack Developer as I believe it makes me a better backend and/or frontend developer on the whole. I enjoy working on projects in my free time as it allows me to grow as a developer and learn new technologies while also staying current with the technologies I work with on a daily basis.
 
 ### TECHNOLOGIES
 
